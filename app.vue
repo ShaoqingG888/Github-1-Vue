@@ -7,7 +7,7 @@ export default {
   },
 };
 </script>
-
+123
 <template>
   <button @click="count++">Count is: {{ count }}</button>
 </template>
